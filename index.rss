@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+
+  <channel>
+    <title>blay.se</title>
+    <link>http://jekyll.blay.se/</link>
+    <atom:link href="http://jekyll.blay.se/index.rss" rel="self" type="application/rss+xml" />
+    <description>stuff from blay.se</description>
+    <language>en-us</language>
+    <pubDate>Sat, 22 Oct 2011 23:35:14 CEST</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2011 23:35:14 CEST</lastBuildDate>
+
+    
+    <item>
+      <title>Internauts, Punks and Infrastructure</title>
+      <link>http://jekyll.blay.se/2011/10/06/punks</link>
+      <pubDate>Thu, 06 Oct 2011 00:00:00 CEST</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2011/10/06/punks</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is a paper i presented at the &quot;Consuming the Illegal&quot; seminar in Leuwen, Belgium. Also available as &lt;a href=&quot;/papers/punks.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Internauts, Punks and Infrastructure&lt;/h2&gt;
+
+&lt;h3&gt;Internet Put into Place&lt;/h3&gt;
+
+&lt;p&gt;The Internet wouldn't be the same if the protocols and physical infrastructures would fundamentally change, but the thing we talk about
+   when we say &quot;the Internet&quot; in daily speech, such as that the internet will
+   be a basis for the future society or the future economy, or that the
+   internet is a tool for democracy, refers to something more than the
+   infrastructure. It refers both to the infrastructure and how it is enacted.
+   This paper attempts to look at different strategies for this enactment in
+   order to keep the cultural vitality of the internet.
+  As the general conception goes, infrastructure is something that you build
+and supposedly just have without effort. Something that is just there. But
+as Nigel Thrift have shown, even infrastructure needs
+constant maintenance. Infrastructure is not something you can build and
+then simply leave to its own devices. For us who are engaged politically in
+internet issues and with digital culture, this has become painfully evident
+the last years. From efforts of the copyright industry to shape the
+internet infrastructure, to discussions about future internets that break
+with the fundamental principles of the internet as we know it and more
+recently the experience of the internet blackouts in the middle east and
+north african uprisings.
+  On the other hand, if the internet is not to be considered an
+infrastructure that is put into place it must be considered something that
+needs to be performed. Latour said that technology is society made durable, but clearly he is neither a hacker nor an industry
+lobbyist. The construction of the internet is slower, more resistant and
+more inert than the fleeting performance of a theatre piece. But this is a
+difference in scale and in terms of the actors involved, not in principle.
+  Viewing the internet as a performance not only has the consequence that it
+constantly needs to be maintained, but also, like any performance, that it
+might change from time to time and even run out of steam. A performance is
+an intervention in a specific context. It implies having to distinguish
+between which procedures make the internet the internet and which that are
+its superficial manifestations, rather than accepting the internet and its
+path of development as it is today as its final form.&lt;/p&gt;
+
+&lt;h3&gt;The Original Punks&lt;/h3&gt;
+
+&lt;p&gt;  Let me clarify this with an analogy. Let us compare internet as we know it
+to punk music. For many people, punk is and was the perfect music scene and
+the perfect style of music. The energy in punk, the participatory nature,
+the rawness, the immediacy --- nothing can beat it. The book Lipstick
+Traces by Greil Marcus exemplifies this perfectly. Punk
+as it was in the beginning a moment as good as it gets, but then something
+happened. Punk was commercialised. Maybe it started already with the Sex
+Pistols, or maybe they punked the commercial world - opinions differ. But
+at some point, punk was destroyed. One strategy today can thus be to try to
+rebirth the early days of punk. To recreate them outside of the commercial
+sphere. To do punk the way it is supposed to be and to fight the degenerate
+version of punk we have today. The price you pay for this strategy is
+endless discussions of exactly when the authentic moment of punk took
+place. This would be equal to treating punk as infrastructure that should
+be repaired.
+  Treating punk as performance would create another strategy. It would
+recognise that punk was an event, an ephemeral moment, and by the time it
+was commercialised there was already something else that was more punk than
+being punk. Punk was not about the clothes or even the way the music
+sounded, it was about a certain attitude to life that manifested itself at
+that point in time in the music style of Punk. From this perspective, the
+commercialisation of punk was not a problem because even if it destroyed
+punk music, perhaps acid house or hip-hop was the manifestation of &quot;punk&quot;
+more than punk rock.
+  Now when the case has been pushed this far it's time to reflect on what
+this means (before actually finalising the metaphor and return to the
+internet...). The whole argument seems somewhat anti-political. Why fight
+the commercialisation of punk and other subcultures when you can just move
+on to a new thing? There are a few arguments against this. One is the
+democratic argument. Even if the original punks move on to hip-hop and acid
+house, the majority will be stuck with a watered down version of punk and
+have no idea of what punk really is about or what radical potential punk
+once had.
+  Another argument has to do with the secondary effects of the
+commercialisation of punk. The commercialisation of it happened at a time
+when the music industry was moving away from having live music as its firm
+base and when recorded music starts gaining ground. As a result (or maybe
+as unintentional effect, see the research of Rasmus Fleischer) the collecting societies start to get more aggressive. In
+Sweden the collecting societies start collecting money for recorded music
+being played in public places. A practice that was first meant as a way to
+discourage people owning cafés and bars from getting a jukebox instead of
+hiring live musicians but that quickly became a substantial revenue in
+itself for the music industry. Around the same time the cassette levy gets
+implemented making cassette tapes more expensive. Now, I'm sure that the
+chronological correctness of this is not absolute but for the sake of
+analogy it holds. The point is that even though the post-punks don't care
+about the commercialisation of punk rock per se, the secondary effect is
+that they end up with more costs for recording and distributing music on
+cassettes and on running public places where music is played. So even if
+the performance takes on a new shape, it relies on being nurtured by an
+environment that can be damaged as a secondary effect.&lt;/p&gt;
+
+&lt;h3&gt;The Lost Internet&lt;/h3&gt;
+
+&lt;p&gt;  Can this analogy then be applied to the internet? Isn't internet different
+because it is so generic and it's principles the best possible way of doing
+an open network? Perhaps, but this is what will be investigated from the
+perspective of internet as performance.
+  Let's first look at the internet as we know it today; the protocols it is
+using, the way most people communicate on it, the way it is designed. Let's
+imagine we are the original punks. Surely, already today some people say
+that the internet is not what it used to be. Maybe it ended when commercial
+ISPs became dominant, maybe with web2.0. Maybe it is still located at a
+point in the near future when net neutrality will definitely be breached on
+a large scale. The infrastructure way of tackling this problem would be to
+defend the internet against its threats. To fight to keep the true
+internet. This is seen today, for example in efforts to define what a real
+internet must consist of to be called internet (As expressed in the work of
+La Quadrature du Net and The Julia Group). The problem is as always to
+determine at what point we actually had the real thing and when it was
+subverted. In net neutrality, this is represented by the problem of how
+much an ISP should be able to alter the network for &quot;technical reasons&quot;.
+Peering? Combat spam and botnets? Prioritising VOIP over web only as long
+as it does not distinguish between providers of the same kind of service?
+Difficult questions indeed and truly echoing endless debates on what the
+authentic punk moment really was.
+  The opposing strategy of internet as performance exists as well, for
+example with the cipherpunks who argument goes along line
+of: &quot;to hell with vanilla internet, you can have it, try to monitor and
+censor our cryptographic, distributed darknets if you can!&quot;. The same
+arguments as with hip-hop and acid house are valid here as well. The
+majority will be stuck with biased, censored, filtered and monitored
+vanilla internet even though the cipherpunks will be alright. We could also
+imagine the environmental argument from the cipherspace point of view. Even
+if you don't care what happens to the vanilla internet, secondary effects
+of the destruction of it can also hamper the development of cipherspace.
+This could for example be a development of a two-tiered internet where
+cipherspace can only exist in the slow lane.
+  So what does all this amounts to? The point I want to make with these wild
+metaphors is that instead of just being anti-commercial or anti-filtering,
+we should really think about what it is and was that made us love the
+internet from the beginning. What did it do to us? What did it enable? What
+affects, relations and sensations did it create? What was it about it that
+made these things possible and how can they be accomplished in other ways
+while still being internet, or still being punk?&lt;/p&gt;
+
+&lt;h3&gt;The Future Internet&lt;/h3&gt;
+
+&lt;p&gt;  Both the record companies that commercialised punk and the media industry
+that wants to shape the future internet seem to have a clear idea of what
+punk and internet respectively is all about and what drivers push it
+towards the future. In the case of punk, it was the edgy clothes, the chord
+progressions and guitar distortions and the cocky attitude. In terms of the
+internet it seems to be more bandwidth, faster transmissions and more high
+quality content. The media industry is now imagining a future 3D-HD content
+streaming multimedia internet that according to them is the essence of the
+internet only faster, bigger and more professional.
+  Just as with punk, by a shallow comparison it seems to be perfectly fine.
+Wasn't the essence of punk the shocking clothes, the raw music and the
+confrontational, no-compromise attitude? And wasn't the internet about
+quicker and wider access to information, faster downloads, more content?
+Isn't Spotify like The Pirate Bay, only better, more accessible, more
+professional? To argue otherwise immediately puts one in the nostalgic
+camp. It was better before in this imaginary not-so-distant-past before the
+fall. For many people, both punks and internauts, this is certainly true.
+But there is also another way of looking at it. That this - often fictional
+- past, embodied a set of abstract procedures or principles, an abstract
+machine as Deleuze and Guattari calls it, that can be
+recreated today but through other, contemporary means; that the past
+manifestation of this abstraction was a means rather than an end; and that
+it was a performance that was always destined to run out of steam.&lt;/p&gt;
+
+&lt;h3&gt;Accelerationism&lt;/h3&gt;
+
+&lt;p&gt;  Within the so called file-sharing debate this tendency has been discussed
+as an accelerationist period --- a period that tries to accelerate a set of
+procedures towards a singularity, or a horizon, in order to exhaust the
+tendency and to overcome it (For accelerationism in theory, see Benjamin
+Noys; for accelerationism in practice, see the writings of
+Nick Land). Within file-sharing this is represented by
+faster downloads, more bandwidth, filling up more hard drives with content,
+a desire for accessing more and more information. Let's locate this period
+roughly from 1999 to 2005.
+  In punk we can also identify this accelerationist tendency. More shocking,
+more raw, worse sound, more aggression. But this accelerationist tendency
+strives toward the horizon and beyond, to a place and an intensity where it
+can no longer sustain itself, where it destroys itself. Now, the corrupting
+tendencies, and this can be thought of as a feature of capitalist
+endeavours, are what makes use of the energy created by the acceleration
+but binds it within the horizon of the given system. In punk, the major
+labels used the raw energy and shocking effects and amateurist ideals to be
+able to quickly launch new punk bands, getting media attention and sell
+more records, but keeping this moment balancing on the horizon forever,
+turning punk into a set of eternal poses and standards. The same is
+happening with digital culture. A service like Spotify or iTunes music
+store makes use of the energy created by file-sharing but keeps this drive
+for access in a regulated state, making sure Spotify users also hear the
+ads, turning the accelerationist tendency into the infinite accumulation of
+always new music.&lt;/p&gt;
+
+&lt;h3&gt;Post-Digital&lt;/h3&gt;
+
+&lt;p&gt;  But as I stated, the accelerationist tendency strives toward a singularity
+and beyond where it can no longer maintain itself. The other side of the
+horizon can both be destructive and give birth to new mutations. The tragic
+histories of those who pushed punk beyond the horizon is well documented,
+with the history of Sid and Nancy as the most famous example. Pushing the
+access of information and acceleration of bandwidth beyond its limits is
+not fully as physically destructive, but this drive also reaches a
+singularity where more access does not produce more intense effects of
+knowledge or cultural experiences as it used to. The result can only be to
+give it up completely or to mutate. In the post file-sharing climate, one
+of these mutations has been called the post-digital tendency. In this climate, the media industry that first
+seemed to be opposed to the internet is now more internet evangelist than
+anyone else, imagining a future where all culture moves into &quot;the cloud&quot;
+producing ever more of sameness. Instead, the original pirate punks have
+begun to talk about culture literally taking place and the importance of
+understanding and providing context for digital information and culture.
+  Exactly what form this post-digital culture will manifest is uncertain at
+the moment, but it won't be just more of the same, not just more leather
+jackets, distorted guitars, aggressive testosterone-filled vocalists,
+pixels, bandwidth or accumulated information. What is certain is that it
+have to consist of different aspects of the original manifestation of the
+internet than the ones that is current driving its corruption. From this
+perspective, the corrupting tendency should not be resisted since it simply
+means that the horizon has clearly been reached. But neither should it be
+ignored and turned loose completely since its secondary effects can be
+destructive.
+  Let's speculate on what this post-digital tendency could amount to. For
+example it could turn into a reversal. Just like the raw human expression
+of punk turned into the machinic drive of acid house and the macho
+aggressiveness into the funky post-punk (see the film 24h party people).
+Apart from the obvious; that post-digital highlights the always forgotten
+non-digital of digital experiences, we could also imagine that instead of
+driving bandwidth, processing speed and memory to a maximum, they are
+sacrificed and turned into a minimum in order to accomplish ubiquitousness,
+mobility, and resilience. As examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Neil Gershenfield once thought of the concept of internet zero as a ultra minimal, slow protocol for the internet of things. I have myself modified the concept of internet zero to refer to all of the non-digital interface between people and the digital which always exist but not always consist of a mouse and keyboard of a personal computer but by the body itself, the distance to the machine at any given time and sometimes a village sending email by having a motorcycle courier take them on a storage medium to the nearby town in order to send them out.&lt;/li&gt;
+&lt;li&gt;Internet communication in emergency situations might not function no matter how many mbits your home connection has but a resilient enough network with many interfaces, mediums and protocols can find a way to get that one piece of essential information to reach its destination.&lt;/li&gt;
+&lt;li&gt;Cultural expressions based on low quality trade offs for maximum connectivity, creativity or sociability is already existent, such as the chip tunes music scene.&lt;/li&gt;
+&lt;li&gt;Physical computing sacrifices processing power and memory for physical interface and maximum embeddedness, mobility and modularity.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Clicks and Cuts&lt;/h3&gt;
+
+&lt;p&gt;  There is also a parallel digital accelerationism and post digitality within
+the aesthetic domain. Its beginnings can be located to the 90's. The
+electronic club music from the 80's turned in the beginning of the 90's
+into jungle, techno, house, in a feedback loop where drug use and intensity
+of music tried to accelerate each other. A few years later, the production
+of this music becomes widely accessible due to cheap digital or
+software-based synthesisers.
+  A lot of the use newly available digital and software based synthesisers
+simply mimicked the analog synthesiser, both to appearance and sound. It
+was even a selling point that a digital synthesiser had the warmth and
+fuzzy characteristic of an analog sound. Some people, most notably an
+artist calling himself Oval, didn't like this nostalgia. He wanted to find
+a digital sound, but was there really such a thing? Isn't the digital
+simply a matter of reproducing sounds using arbitrary algorithms? Does it
+have a sound of its own? What Oval found out was that just as the analog
+medium has its own sound in distortion and modulation of the signal due to
+inaccuracies, the digital has its sound, but it is a sudden interruption -
+the glitch - too fast to be reproduced by humans or analog machines. The
+glitch is the sudden jump occurring through a digital misreading of the
+code where the value for the sound wave jump from zero to maximum in an
+instant. Oval took some CDs, scratched them and sampled the glitchy,
+clicking sounds.
+  This soon spawned a number of &quot;clicks-and-cuts&quot; genres like glitchtronica,
+glitchcore and click-hop, but just as any accelerationism, it ran into a
+dead end. Soon you couldn't tell the difference between any of the glitchy
+albums that was constantly released. They all formed a soulless, generic
+carpet of sameness. Oval stopped releasing albums - until last year.
+  The amazing album &quot;O&quot; features Oval playing acoustic guitar; although
+heavily mediated through digital techniques, cut-ups and effects. As one
+music blogger describes it:
+  [W]hereas the subject matter of Oval in the 90s was digital audio, the
+reboot zoomed in on music itself. Oval 2010-style seems very much like
+Popp’s [a.k.a. Oval's] attempt to take music apart in order to see how it
+works, both materially and in a more abstract, semiotic or even spiritual
+sense.&quot;
+  Here we see the post-digital tendency of using the digitally inspired
+methods, techniques and values but not redundantly applying them to the
+digital itself. The force of an accelerationist tendency becomes stronger
+after it has been exhausted in its redundant form. Oval is better when he
+plays guitar, punk is more punk in other styles of music and the internet
+is more explosive in post-digital environments.&lt;/p&gt;
+
+&lt;h3&gt;Lessons Learned&lt;/h3&gt;
+
+&lt;p&gt;  These are just a few speculations on possible digital futures with
+alternative drivers to those that are currently driving an internet
+development that is corrupting its fundamental principles. But it is fair
+to question if this constant reshaping isn't just a line of flight that is
+preventing the clash of the political tensions that build up between
+freedom, desires and cultural control? According to me, they do not imply
+that fighting for fundamental principles of the internet is in vain, but it
+approaches that fight from an alternative set of cultural forces. If the
+copyright industry want to unfetter a certain development from fixed
+principles such as net neutrality, this perspective wants to retain those
+principles precisely because they are the public environment necessary to
+foster the growth of alternative internet futures.
+  I think we can learn something form Oval here, who managed to step out of
+the redundancy of using digital technologies for their own sake and began
+to apply the principles of them to the core of his activity. In the same
+way, we should search new core activities where the internet infrastructure
+function as necessary tools rather than existing for their own sake.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal communication</title>
+      <link>http://jekyll.blay.se/2011/02/01/personal-communication</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 CET</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2011/02/01/personal-communication</guid>
+      <description>&lt;p&gt;  The Personal Computer, this machine that we access on an individual
+  basis, connected to static power sockets and broadband connection
+  inside our home, has made us determine the impact of communication
+  technologies after how many have access to them. So we think that
+  internet can not have an impact in a country where only a few percent
+  has access to it. But this argument misses the vast deployment of
+  &lt;a href=&quot;http://old.blay.se/2009/05/16/natpolitikens-nollpunkt/&quot;&gt;InternetZero&lt;/a&gt; - that protocol which offline communications use to reach
+  a network connection. This documentary about &lt;a href=&quot;http://www.youtube.com/watch?v%3DdG4jvV9ngWU&quot;&gt;The Last Voice of Kuwait&lt;/a&gt;
+  is a prime example.&lt;/p&gt;
+
+&lt;p&gt;  Only one person in Kuwait had access to hamradio and there were only a
+  few receivers in the west relaying the messages. But this person was
+  enough to get a lot of information out because internetZero was used
+  to get information to him that he could pass on. Within a large crowd,
+  for example in Tahrir square in Cairo it is enough for one person so
+  be connected to someone in Alexandria or Suez to be able to relay that
+  information to everyone else. So when we try to determine the impact
+  of a communications medium, we should not look at how many people have
+  individual access to it, but how accessible those access points are,
+  how information gets to them and how information that arrives there
+  spreads further.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two ways of influencing</title>
+      <link>http://jekyll.blay.se/2011/01/24/two-ways-of-influencing</link>
+      <pubDate>Mon, 24 Jan 2011 00:00:00 CET</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2011/01/24/two-ways-of-influencing</guid>
+      <description>&lt;p&gt;  Our worldviews are shaped by the streams of information that reaches us.
+Which sources of information we follow, what their output is, which other
+sources intercept this flow.&lt;/p&gt;
+
+&lt;p&gt;  Let's say I want to influence a certain target groups worldview. Then there
+are at least two ways of doing it. One would be to insert myself or
+references to my self into their information streams. Getting peole to link
+me, reference me, write about me; so that enough of the target group would
+add me as source of information and then gain influence. This is an
+authorship based strategy. Another strategy would be to influence the
+sources that the target group is already using so that their worldview
+corresponds to mine. This would be a Kopimi strategy, since it would never
+rely on anyone linking back to me. The flow is only outwards, expanding.&lt;/p&gt;
+
+&lt;p&gt;  The first strategy is classical advertising, attaching a brand to a piece
+of information/affect. But even companies are today also using the kopimi
+strategy to the effect that an environment is formed that is suitable for
+the company to operate in. However the information stream itself that
+creates this environment is never linked to the company since this would
+damage the trust in the information.&lt;/p&gt;
+
+&lt;p&gt;  In the first strategy, quantity is most important; getting as much
+information linking to me as possible while what that information consists
+of is not as important. In the second strategy the quality of the
+information is most important. Since I'm never the source itself the
+information needs to be of the kind that will shape the environment in a
+way that fits my operations.&lt;/p&gt;
+
+&lt;p&gt;  Kopimi therefore is a challenge to think information and communication
+beyond the author-function. What would &lt;em&gt;you&lt;/em&gt; write if other would be the authors of it?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Managing Information Uncertainties in Real-time Politics</title>
+      <link>http://jekyll.blay.se/2011/01/23/managing-information-uncertainties-in-realtime-politics</link>
+      <pubDate>Sun, 23 Jan 2011 00:00:00 CET</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2011/01/23/managing-information-uncertainties-in-realtime-politics</guid>
+      <description>&lt;p&gt;Internet has in the last years developed an astonishing ability to react to events in real-time and affect them as they are happening. This is truly an evolution of the net and something very powerful. In the process, however, a problematic relation between information and action arise.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To uphold the real-time web, action must constantly be taken.&lt;/li&gt;
+&lt;li&gt;The common relation between information and action is one where information is gathered until an understanding has been reached. Then the appropriate action is taken. When information is gathered two action can follow.&lt;/li&gt;
+&lt;li&gt;The information is deemed true and action is followed upon it.&lt;/li&gt;
+&lt;li&gt;The information is deemed false and no action is taken.&lt;/li&gt;
+&lt;li&gt;In the real-time web, this relation is distorted due to the time constraints which approaches zero. In fact sub-zero since to be truly real-time, action must begin to be taken even before the information is gathered (this is not as impossible as it sounds!).&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;In real-time situations, therefore, one often find oneself in a situation of information uncertainty. That is, the information at hand is not sufficient to provide an understanding of a given situation. More information is needed.&lt;/p&gt;
+
+&lt;p&gt;What to do in this situation?
+One could wait until sufficient information is gathered. The problem is that the situation could already be over when this happens (if ever!) and one loses the power of real-time politics. Another option is to disregard the information uncertainties and still judge information to be true or false. This is very common on the Internet. Since this judgement can't be based on the information itself - which could go either way - other factors play a large part. This can be factors such as what fits ones world view, what goes together with previous information proven to be true (although the situation could have changed --- making that information obsolete). The action could also be based on the action of others or (also very common) what brings the most exciting action for the time being.&lt;/p&gt;
+
+&lt;p&gt;So far we have either passivity or random, ungrounded action as reaction to information uncertainties --- two quite poor options. There is a third option though; one which the Internet has not managed to implement on a collective scale, but one that professionals within finance, management and design as well as military commanders, gamblers and others dealing with uncertainties use on a daily basis --- risk management.&lt;/p&gt;
+
+&lt;p&gt;Risk management is neither regarding information as true or false nor waiting to act until all pieces are in place. Risk management is about establishing the risk (or chance) that certain information is true or false or if a certain situation will play out one way or the other. The action taken is then not based on an absolute conviction of the nature of a situation but on a distributed set of possibilities. Preferably, the action (or actionS) will be one that covers several of the probable scenarios so it will be a success in either case. This is called distribution of risk. With this follows that, within risk management, several parallel action can be taken that is contradictory taken together. This contradiction will resolve itself once a situation has one or the other outcome.&lt;/p&gt;
+
+&lt;p&gt;The preconditions for risk management as a practice on the Internet is ideal. The Internet is not one big resource that needs to be commanded one way or the other, but a distributed systems that can work on several tracks at the same time. Thus, when we ourselves thought a situation would turn out a certain way but we turn out to be proven wrong while someone else is proven right, there is no reason for bitterness. Internet has just emergently performed risk management. On a similar note, there is no use in seeking total consensus. If someone else disagrees and tries another path we should be glad. After all, if we were to be wrong, at least someone will be right. And the reverse, if everyone, including you, agree on something --- try something else. The important thing to agree on is what would count as a successful outcome on whatever time frame and scale you choose to base the agreement on.&lt;/p&gt;
+
+&lt;p&gt;This does require a change of perspective. For example, the Internet does not show itself from its most powerful side when everyone is doing the same thing --- although it might be the most spectacular. Likewise, someone choosing a different action, even openly refuses the premises of your action, should not be taken as a discouragement for action --- it is only the Internet covering more ground.&lt;/p&gt;
+
+&lt;p&gt;This process is difficult to manage in such a distributed setting as the Internet, but a successful implementation of it would save a lot of wasted effort of people trying to pull everyone in one direction or people being discouraged to pursue a path because others are arguing for a different one. It would also allow Internet to probe for the right action in more situations more effectively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lava Philosophy</title>
+      <link>http://jekyll.blay.se/2011/01/21/lava-philosophy</link>
+      <pubDate>Fri, 21 Jan 2011 00:00:00 CET</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2011/01/21/lava-philosophy</guid>
+      <description>&lt;p&gt;There has been an entertaing debate in the philosophical blogosphere recently and the battle is ones again between object-oriented philosophy and it's discontents.&lt;/p&gt;
+
+&lt;p&gt;Tim Morton &lt;a href=&quot;http://ecologywithoutnature.blogspot.com/search/label/lava%20lamp%20materialism&quot;&gt;accuses&lt;/a&gt; process philosophy --- philosophy that hilights flows, change, mutation over fully formed objects -- for being &quot;lava-lamp philosophy&quot;. He claims that the ontology of process philosophy is really just an aesthetics that likes flowing stuff...like in a lava lamp. Further he claims that process philosophy (basically he means Deleuzians) are like lava lamps because the flowy things happen within a world, on a body without organs. This can either be a primordial chaos-soup or basically linear time. He compares this to house music where lots of layered rythms and sounds happen on top of four-to-the-floor beat. It's flows but that doesn't change anything. Flow within a body of statis. Liek a lava lamp.&lt;/p&gt;
+
+&lt;p&gt;I have illustrated this with this drawing:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/lava.jpg&quot; alt=&quot;lava&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now imagine the lines constantly shifting within the square, changing the shapes. Kind of lava-lampish, isn't it? The idea of a &lt;em&gt;World&lt;/em&gt; is one of Mortons targets and object-oriented philosophy in his version replaces the world with individual objects. Time is something that happens within and between objects, not on a horizon within a world.&lt;/p&gt;
+
+&lt;p&gt;The objects are fully formed, autonomous and never come into direct contact. I illustrated ny extending the first drawing in this way:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/ooo.jpg&quot; alt=&quot;ooo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now I couldn't resist drawing a third drawing illustrating my unfinished ontology of kvasi object oriented philosophy --- or KOOP for short --- where neither world nor objects are ontologized:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/koop.jpg&quot; alt=&quot;koop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, lava lamp philosophy is body (the square) without organs, object-oriented philosophy is fully formed organs without body (no world) and I have organ-bodies, some kind of mutant-cyborg-zombie thing going on there...&lt;/p&gt;
+
+&lt;p&gt;Lava lamp philosophy has relations of interiority, all change happen within the world. OOO has relations of exteriority change happen (within and) between individual objects. I have relations of xenoteriority, my organ-bodies giving birth to slimy aliens and parasites growing out of their foreheads.&lt;/p&gt;
+
+&lt;p&gt;Finally, change in KOOP is contingent, borrowed from Meillasoux, in the sense that both objects and worlds could arise at any time...who knows. At least it's a very nice symbol.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get Real</title>
+      <link>http://jekyll.blay.se/2010/12/14/get-real</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 CET</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2010/12/14/get-real</guid>
+      <description>&lt;p&gt;I was reading &lt;a href=&quot;http://k-punk.abstractdynamics.org/archives/011750.html&quot;&gt;Mark Fishers account&lt;/a&gt; of the london protests yesterday (read it!) and started thinking about what he says about pop culture. Developing his line of thought a bit I would restate it as follows:&lt;/p&gt;
+
+&lt;p&gt;Pop music today is very detatched from &quot;what's going on&quot; in the young generation. It is detached in two ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One is the transcendental way. Here we find classical pop songs, rnb, love songs, with classic pop/rock arrangments, lyrics focusing on the individual emotions detatched from anything but a few involved human beings.&lt;/li&gt;
+&lt;li&gt;The other way is a realist way. Mark summarizes it in the hip-hop phrase &quot;get real&quot;. It is about accepting the current conditions as natural and unchangable; playing the game --- and winning it.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Although this realism at a first glance seems to capture the present conditions it fails to adress what's &lt;em&gt;going on&lt;/em&gt;. What is lacking is what within philosophy is called &lt;a href=&quot;http://www.frieze.com/comment/article/speculative_realism/&quot;&gt;speculative realism&lt;/a&gt;. Speculative realism, in a free-hand interpretation, means that the present conditions are reckognized, but at the same time recognized as something that cannot go on. This can take at least two expressions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One is that the present conditions are very real, but unsustainable; whether its the economic system, the ecological system or excessive use of energy.&lt;/li&gt;
+&lt;li&gt;The second way is by the insight that all reality's constructions are absolutely contingent. They are this way, but there is no reason for them to stay that way. This can not at least be seen in the net activism which talks about &quot;rebuilding&quot; societal and technical structures.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>luft</title>
+      <link>http://jekyll.blay.se/2010/12/05/luft</link>
+      <pubDate>Sun, 05 Dec 2010 00:00:00 CET</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2010/12/05/luft</guid>
+      <description>&lt;p&gt;Luften är kvav långt in på kvällen. Takfläktens luftdrag trycker ner en i sängen. Efter en dag i vibrerande hetta och avgaser på sex-filiga avenyer finns inte mycket kraft kvar till tankeverksamhet. Den sista caishasan hjälpte knappast heller. Internet laddar långsamt. Timeout. Nedkopplad. Uppkopplad igen. Skriver något i chatten och trycker på ENTER. Hoppar till webbläsaren. Sidan har laddat. Läser lite. Hoppar tillbaka. Texten har dykt upp och skickats. Här ligger vi, fast i en bubbla av negentropi bland kaotisk rörelse, expanderande kåkstäder och en världsdel som kastar sig mot det okända.&lt;/p&gt;
+
+&lt;p&gt;Världen kan följas genom ett terminalfönster men varje försök till ingrepp kommer för sent. Tiden är ur led. Det går bara att läsa ikapp. Infrastrukturen framträder så påtagligt att det går att snudda vid den. Långsamheten här. Hastigheten där borta. Hastigheten med vilken de råa tekniska relationerna framträder och avkläds varje förmildrande omslutning. Kan någon hädanefter hävda att någon reglering av nätverket i slutändan syftar mot något annat än den absoluta infomrationskontrollen?&lt;/p&gt;
+
+&lt;p&gt;Kom ihåg att absolut kontroll inte handlar om att planera varje steg utan om makten att kunna införa undantaget. Makten att kunna göra ingreppet i systemet. Att göra en koppling, att avbryta en annan; för att på så vis styra om flödet. Den makten innefattar också en kännedom om systemet från en slags utanför-position --- inte den kännedom man förskansar sig genom att delta i livet i systemet ---  utan en från en viss kritisk distans, väntandes på rätt tillfälle att göra nästa ingrepp. Just nu upplevs den sällsynta känslan av att morgondagen omöjligen kan komma att vara så som gårdagen var.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free Culture Forum presentation on Information Fetishism</title>
+      <link>http://jekyll.blay.se/2010/11/04/free-culture-forum-presentation-on-information-fetishism</link>
+      <pubDate>Thu, 04 Nov 2010 21:24:12 CET</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2010/11/04/free-culture-forum-presentation-on-information-fetishism</guid>
+      <description>&lt;p style=&quot;clear: both&quot;&gt;&lt;em&gt;This post treats the conceptual role of information in discussions at the &lt;a href=&quot;http://2010.fcforum.net/&quot;&gt;Free Culture Forum&lt;/a&gt; and problems associated with equating cultural expressions with their representations as digital information.&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;em&gt;This was sort of my talk but the 9 min we had been delegated didn’t even last a third of it. &lt;br /&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;em&gt;We were asked to answer two questions in the presentation:&lt;/em&gt;&lt;br /&gt;&lt;em&gt;What do you think of Flatrate?&lt;br /&gt;Who are the creative communities?&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.piratbyran.org&quot;&gt;// Piracy&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;My way into the “free culture” discussions is from Piratbyrån, the organisation that kickstarted the debate regarding the effects of internet and copying on culture and society in Sweden. Our aim when we founded in 2003 was to destroy an economy based on intellectual property and replace it with the internet. True story…&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Since it was technology that had enabled this opportunity, the initial focus was mostly on more technology as the solution. Better access, more broadband, more copying would presumedly linearly increase the effects that internet brought about. That is; better, more diverse, culture, more freedom, political change.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;After a while we got the sense that this no longer was sufficient or a good way of framing the situation. This change was both internally and externally motivated. Internally, acceleration of the same didn’t give the desired effect. Selection became more problematic than distribution, what makes culture meaningful became more important than access.&lt;br /&gt;&lt;br /&gt;Externally, computing moved out from the home PC to mobile and ubiquitous technologies, especially outside of the western world and its telecommunications infrastructure. Music economy turned towards live music. Social media connected to physical social networks and places. Information politics didn’t turn to political change.&lt;br /&gt;&lt;br /&gt;All culture moved to the internet, but did not leave the analog anchor behind. On the contrary, digital information circulate in and influence physical spaces and communities more than ever. The way these spaces and activities are conducted is what is fundamentally changed by digital information, with new abilities to coordinate social and cultural forms non-institutionally being opened up. But this is an opportunity to engage more concretely in these spaces and activities — making them more relevant — not escape from them and making them redundant because they also exist as digital representations.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;/// &lt;a href=&quot;http://russelldavies.typepad.com/planning/2009/01/meet-the-new-schtick.html&quot;&gt;Post-&lt;/a&gt;&lt;a href=&quot;http://bluwiki.com/go/Postdigitala&quot;&gt;digitality&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;br /&gt;Ironically, what came out of this engagement with piracy and copying was less of a focus on digital content, rather than more. Instead it was a focus on all those things that made sharing information meaningful. More access and more information and more digitalisation was definitely not the solution in itself.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;br /&gt;The question of digital information is no longer about how to increase the production of it, but:&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;This presents the question of participation as a serial issue on the systemic level rather than the content level. An act that on the content level is pure “non-participatory” consumption may on the systemic level be a part of simply more accumulation of information, but may as well be a tool for action and creativity. Does the accumulation of information on a political issue enable political actions or does it simply produce passive “understanding”? Does downloading music make people get together and dance or make individuals in front of their laptops press the skip button more often? &lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;This critique is a form of information overload critique, but not information overload in the sense of one being passively bombarded with information, which is a broadcast/consuming perspective. Instead; it is an overload of the active will of accessing more information and believing that simply more information gives a better understanding, clues to how to act or a better cultural experience. If this result is not achieved the information addict believes that the only thing missing is more or better filtered information.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;//// Abstract Space&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;All media experiences are post-digital. Sound and light takes place off the internet when digital information is transformed into analog signals. For a long time the post-digital output of digital information was only an individual in front of a home PC, but no longer. Equally, all culture exist in one way or another as digital representation. &lt;br /&gt;&lt;br /&gt;That is why any framing of the problem and opportunities of culture must leave the abstract space of the internet. This space is abstract and a fetish in the sense that, in this space, culture becomes content without regard to the concrete situations in which it is experienced and digitalized. The framing have to include the constantly ongoing circulations of materialisation and de-materializations and conversions between analog and digital.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;The most enthusiastic advocates of the digitalization of culture today is the copyright industry. Gone are the days when “we” were digital pioneers faced with analog industries. As Eva Lichtenberger said at FC Forum, their key question today is: How to make money &lt;em&gt;on&lt;/em&gt; digital information?&lt;br /&gt;&lt;br /&gt;The copyright industry is convinced that, in the future, all culture will be digital and they want to be the ones providing the digital services in the future media internet. Cultural production, experiences, business models, services and relations will all be digital. Producing better cultural experiences in their view is about producing better digital media experiences, from their point of view often involving bandwidth-intensive media experiences with linearly improving quality of image, sound and selection. Nothing radical for sure, but as a consequence they would have to re-write the architecture of the Internet as to ensure quality of service. Note that in this model, file-sharing is not really a problem, since the idea is that the consumer would prefer the high-quality media experiences that is impossible to replicate on the regular internet, without the network management of the ISPs&lt;br /&gt;&lt;br /&gt;As a consequence, when the copyright industry form lobby groups to speak for culture with one voice, as though all culture would have common interests, they constantly exclude culture whose main expressions are not digitalizable but are about performative, physical and/or collective experiences.&lt;br /&gt;&lt;br /&gt;So any framing that makes a distinction between “new”, “digital” and “old”, “analog” culture feeds directly into the division of culture that the copyright industry want to enforce.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;///// Flatrate&lt;br /&gt;&lt;br /&gt;The critique against flatrate from this perspective should by now be evident. It remains in the abstract digital space, ignoring the concrete post-digital spaces. This abstract conception of culture gets severe consequences.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;A reward situation like flatrate can never be a neutral measurement of culture existing outside of the reward system. As soon as the system is being enacted it is also an incentive for culture to move in the direction where the reward is maximised. In the case of a flatrate that would somehow measure popularity of digital content, that would be culture based on more and more production of digital content which, disregarding what context and what emotions it creates, would be consumed as many times as possible. That is a culture that searches for the lowest common denominator in order to scale as fast as possible, that constantly creates new buzz and that does little more than inject quick cultural &lt;em&gt;fixes&lt;/em&gt;. &lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;It can be argued over what culture should be, but all intervention is the ecosystem where culture operates — including for example policy on urban development and social security — is a valuation of one form of culture over another. Flatrate is an institutionalisation of one specific form of culture for an unforeseeable future. That choice can be very difficult to reverse.&lt;br /&gt;&lt;br /&gt;There is yet one more critique implied by this perspective. If digital technology allows for infinite non-institutional reconfiguration of social, cultural and material relations and the emergence of the cultural industries with their internal and external separations grew out of older media situations and today are retained simply as institutional ghosts of that situation — then there is no reason for naturalizing this division and not also opening up the black box of how creative industries are distinguished from non-creative and not pre-determine the set of possible cultural expressions these reconfigurations may end up having. &lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Accepting those divisions would not allow for anything more than local optimization within pre-defined systems. This will have several consequences:&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;br /&gt;&lt;br /&gt;////// Creative Communities&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;br /&gt;First, the creative communities today will not necessarily come from the internet, it will not be the ones that beginning with digital information, but that define the problem and opportunity elsewhere. Beginning with the internet gives overwhelming possibilities of choice and nowhere to anchor them. That’s where you get things like slacktivism, information accumulation and the shuffle button.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Second, new cultural works in themselves does not make culture and the increased rate of their production is not the problem at hand. What is lacking is rather ways to receive new cultural expressions and nurture them — how to make culture excite bodies and brains. The impact of emerging cultural forms today is not felt on the level of the individual work (a relatively new idea in the history of culture) but on the level of the aggregate of digital culture or creative communities over an extended period of time. When pointing out what has provoked cultural change the last decade it is a mistake to try to find fixed points where that change happened. Rather it is in the everyday reconfiguration of flows and circulations.&lt;br /&gt;&lt;br /&gt;This creativity does not come in leaps in the form of works by artists but through a continuum of creativity exercised between analog and digital, between amateur/ semi-professional/professional, between specialization of a cultural industry and all kinds of work and between individual/network/collective. Or, put more ontologically correctly: the leaps from which culture happens is today so infinitely small that only their aggregation over an extended period of time is registered by our senses.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;/////// Information Politics&lt;br /&gt;&lt;br /&gt;Information politics is one of the key political issues today, but not because access to and accumulation of that information is an end in itself but because of what it is able to accomplish and transform. Precisely because in itself, information is almost nothing, it is so important, since with its help it is possible to reconfigure the things that really matter. &lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;/p&gt;
+
+
+&lt;br class=&quot;final-break&quot; style=&quot;clear: both&quot; /&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lager av klarhet</title>
+      <link>http://jekyll.blay.se/2010/10/02/lager-av-klarhet</link>
+      <pubDate>Sat, 02 Oct 2010 13:37:03 CEST</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2010/10/02/lager-av-klarhet</guid>
+      <description>&lt;p style=&quot;clear: both&quot;&gt;Inlägget &lt;a href=&quot;http://www.farmckon.net/2010/04/layers-of-simplicity/&quot;&gt;här&lt;/a&gt; från Far McKon om komplexa och komplicerade system är så bra att jag citerar det i sin helhet. Det baseras delvis på &lt;a href=&quot;http://www.shirky.com/weblog/2010/04/the-collapse-of-complex-business-models/&quot;&gt;The Collapse of Complex Business Models&lt;/a&gt;, som också är väldigt bra läsning. &lt;/p&gt;
+
+
+&lt;blockquote style=&quot;clear: both&quot;&gt;&lt;p&gt;Use Layers of simplicity: &lt;br /&gt;Good complex systems are not really complex, they are layers of simplicity. One way I’ve heard that described is as “Simple, Complex vs Complicated”. Simple systems are simple. Complex systems are layers of simple systems, that can be abstracted and used separately, and unwoven. Complicated systems are, rather than a collection of simple parts, are a single complicated system, and are hard to unwind, or reuse just part of.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Koppla gärna detta till &lt;a href=&quot;http://www.isk-gbg.org/99our68/?p=434&quot;&gt;diskussionen&lt;/a&gt; om &lt;a href=&quot;http://en.wikipedia.org/wiki/Unit_operation&quot;&gt;Unit Operations&lt;/a&gt; (&lt;a href=&quot;http://www.bogost.com/books/unit_operations.shtml&quot;&gt;bok&lt;/a&gt;) och System Operations. Själv behåller jag gärna begreppet system, men talar om komplexa och komplicerade istället (&lt;a href=&quot;http://www.blay.se/2010/07/26/pentagon-lar-ut-samtida-informationhantering/&quot;&gt;Till exempel här&lt;/a&gt;).&lt;/p&gt;
+
+
+&lt;blockquote style=&quot;clear: both&quot;&gt;&lt;p&gt;Complexity often has diminishing returns:&lt;br /&gt;Complexity (and complication) has diminishing returns. Layers if management, interaction, and checking takes more and more resources away from the main goal. While each new layer may be useful, and add to overall quality and stability of the system, it get to a point where adding more takes so much time and energy, the new capabilities are not worth the cost.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Här är faran med att bygga komplicerade organisationer. I det omedelbara situationen kan varje nytt lager verka vettigt och bidrar till att utföra en uppgift mer effektivt. Men till slut, framförallt när det som mest behövs förändring kommer den stabiliteten och effektiviteten som de tillagda lagren utgjorde att vara organisationens största hinder.&lt;/p&gt;
+
+
+&lt;blockquote style=&quot;clear: both&quot;&gt;&lt;p&gt;Creeping Featurism: &lt;br /&gt;No matter how simple you want a system, complexity or complication will creep in.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Alla som engagerat sig i skapandet några slags organisationer känner säkert igen detta. Organisationen börjar kraftfullt enkelt, självständiga delar hakar i varandra och skapar något produktivt, men ändock med externa relationer, men efter ett tag kommer vanor, diskurser och stigberoenden krypande.&lt;/p&gt;
+
+
+&lt;blockquote style=&quot;clear: both&quot;&gt;&lt;p&gt;Simplifying is hard:&lt;br /&gt;In a lot of cases, removing complexity (or complication) from human systems is difficult. Often systems will rather collapse, than simplify. I think this is more a ‘human nature’ than ‘all of nature’ issue. People see cutting back a budget as a failure, rather than a success. They often see doing fewer things better as second to doing a lot poorly (I know I’m in that category). Simplifying something is harder than making it more complicated. I think all of these are as true for human systems, as they are for computer systems. I hope in the future to write a bit about how to manage these issues for people, and code.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Alla citat från: &lt;a href=&quot;http://www.farmckon.net/2010/04/layers-of-simplicity/&quot;&gt;Layers of Simplicity « Far McKon&lt;/a&gt;  &lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;&lt;/p&gt;
+
+
+&lt;br class=&quot;final-break&quot; style=&quot;clear: both&quot; /&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Magiska fönster och ytor</title>
+      <link>http://jekyll.blay.se/2010/10/02/magiska-fonster-och-ytor</link>
+      <pubDate>Sat, 02 Oct 2010 13:04:48 CEST</pubDate>
+      <author>ok@blay.se (Magnus)</author>
+      <guid>http://jekull.blay.se/2010/10/02/magiska-fonster-och-ytor</guid>
+      <description>&lt;p style=&quot;clear: both&quot;&gt;Den moderna datorn används för det mesta som ett svart hål som suger uppmärksamhet från omgivning och in till datorn. Den stationära datorn låser till och med användaren vid en bestämd plats, ofta borta från solljus och frisk luft.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Utifrån mobila kommunikationsteknologier kan den här utvecklingen anses ha gått åt två håll. Antingen kan den sägas ha flyttat ut datoranvändandet i friska luften, ut bland människor, ut i staden. Eller så kan datoranvändandet sägas ta ännu mer tid och uppmärksamhet i anspråk så att inte ens en promenad på stan, en väntan på en buss eller en fikastund ägnas åt den kroppsliga upplevelsen i nuet.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Sett som ett designproblem kan mobila teknologier, och framförallt touch-baserade skärmar, ses på två sätt som korresponderar mot de här utvecklingarna - antingen som fönster eller som ytor.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Matt Jones gör den distinktionen &lt;a href=&quot;http://magicalnihilism.com/2007/11/15/lost-futures-unconscious-gestures/&quot; title=&quot;&quot;&gt;i ett inlägg om ipad&lt;/a&gt;. Ofta används och designas ipad, iphones och liknande som fönster och skapar därmed en interaktiv splittring mellan vad som pågår på skärmen och vad som pågår runt omkring. Visserligen färdas data mellan de här två världarna - automatiskt genom positioneringsdata och av användaren genom delandet av bilder och statusuppdateringar - men det rör sig om två fundamentalt skilda sfärer till den grad att det blir rent livsfarligt att kombinera dem. Jag vill inte rekommendera någon att irca på telefonen samtidigt som ni cyklar...&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+
+&lt;blockquote style=&quot;clear: both&quot;&gt;&lt;p style=&quot;clear: both&quot;&gt;iPhone is a beautiful, seductive but jealous mistress that craves your attention, and enslaves you to its jaw-dropping gorgeousness at the expense of the world around you.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Men det finns en annan väg att gå. Och det är vägen där mobil teknologi blir förhöjande ytor som skapar närvaro. Föreställ er brädspel och fotoalbum. Föreställ er vad musik gör i ett rum och hur märkligt det vore att påstå att musiken riktar uppmärksamheten bort från det som pågår i rummet. Musiken tar inte uppmärksamhet från annat utan förhöjer närvaron och tillåter en deltagande, absorberande &lt;a href=&quot;http://www.dourish.com/embodied/&quot;&gt;kroppslig&lt;/a&gt; upplevelse av omgivningen.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;För att förstå möjligheterna för kommunikationsteknologi att fungera på det här sättet måste vi se till annat än mjukvaran. En laptop med sin uppböjda skärm och enmansinmatning har svårt att fungera på det här sättet. Det är helt enkelt svårt att samlas runt en laptop på ett sätt som både visar skärmen och tillåter uppmärksamhet på de runt omkring. En enhet som har inmatning och uppvisning på samma yta, t.ex. en touchskärm har inte det här problemet. Är den multi-touch kan den till och med användas av flera personer samtidigt. Flytet i interaktionen förblir inte inuti enheten utan i ett öppet system där enheten endast är en komponent.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;För att förstå varför ipad har blivit en sån framgång måste man också förstå vad den möjliggör kroppsligt, som yta. Inte bara som fönster in till en app.&lt;/p&gt;
+
+
+&lt;p style=&quot;clear: both&quot;&gt;Dessa ytor är ändå bara ett litet steg bort från laptopen. Idag finns möjligheten för datande att aktualiseras på helt andra sätt än genom skärmar och blinkande lampor. Mekanik, &lt;a href=&quot;http://www.mcqn.com/weblog/who_or_what_is_bubblino&quot;&gt;såpbubblor&lt;/a&gt; och &lt;a href=&quot;http://en.wikipedia.org/wiki/Thermochromism&quot;&gt;färgskiftningar i tyg&lt;/a&gt; går precis lika bra.&lt;/p&gt;
+
+
+&lt;br class=&quot;final-break&quot; style=&quot;clear: both&quot; /&gt;
+
+</description>
+    </item>
+    
+
+  </channel> 
+</rss>
+
